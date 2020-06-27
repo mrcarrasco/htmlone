@@ -1,2 +1,3 @@
-# htmlone
-Practicas de HTML, CSS y JS. Curso inicial.
+# htmlOne
+
+Proyecto de HTML, CSS y JS: este proyecto contiene practicas básicas
