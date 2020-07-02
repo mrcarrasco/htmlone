@@ -1,0 +1,23 @@
+/* No me funciona el backgroud no repeat en mi navegador firefox*/
+/* Hay dos formas de manejar lo que son los fondos de una pagina web, una las propiedades  separadas y la otra las propiedades en linea*/
+
+body {
+	background:#B2ACAC;
+	background: url(../images/more.png);
+ 	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	font-size: 30px;
+	background-position: center center;
+
+	/*background: url(../images/natu.jpg)  fixed center center;
+	background-size: cover;*/
+}
+
+/*.fondo{
+	width: 600px;
+	height: 600px;
+	background: url(../images/more.png) #000;
+	background-repeat: no-repeat;
+	background-size: 50% ;
+}*/
