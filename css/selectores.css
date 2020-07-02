@@ -1,0 +1,54 @@
+/*
+*Selector universal (selecciona todos los elmentos)
+*/
+*{
+	color:black;
+}
+
+/*
+*Selectores de equitetas para efectuar cambios 
+*/
+h1 {
+	/*color:#33a8ff;*/
+	font-size: 36px;
+	color: #000;
+	font-family: 'Open Sans';
+}
+
+
+h2 {
+	
+	color:#ff8033;
+}
+
+/*
+*Selector decendente que funciona en capas
+*/
+div article p { 
+	font-size:20px;
+	color:black;
+}
+
+p a {
+	color:grey;
+
+/*Para seleccionar una clase se usa .NombredelaClase y para seleccionar un ID, se usa; #nombreID 
+
+NOTA: no usar el ID cuando usemos CSS.
+ 
+ * La clase la podemos repetir y el ID no, el ID esta pensado para ser un identificador unico
+
+* En los CSS solo deberia de tener pueras CLASES
+*/
+
+}
+.grande {
+	color: blue;
+	font-size: 28px;
+}
+
+}
+.grandeOne {
+	color: blue;
+	font-size: 25px;
+}
