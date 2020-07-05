@@ -3,7 +3,6 @@
 
 body {
 	background:#B2ACAC;
-	font-size: 4em;
 	background: url(https://mrcarrasco.000webhostapp.com/practicas/css/img/natu.jpg);
  	background-repeat: no-repeat;
 	background-size:cover;
@@ -13,6 +12,10 @@ body {
 
 	/*background: url(../images/natu.jpg)  fixed center center;
 	background-size: cover;*/
+}
+
+p{
+	font-size: 2em;
 }
 
 /*.fondo{
