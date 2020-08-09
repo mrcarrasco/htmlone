@@ -1,0 +1,59 @@
+* {
+  padding: 200;
+  margin: 200;
+  }
+
+  body {
+    background: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .cajaPadre {
+    background: #2e294a;
+    width: 1300px;
+    overflow: hidden;
+  }
+
+  .caja {
+    width: 200px;
+    color: #fff;
+    font-size: 38px;
+    height: 200px;
+background: #0e6ba8;
+margin: 20px;
+}
+
+.uno {
+
+  float: left;
+}
+
+.dos {
+  float: left;
+}
+
+.tres {
+  float: left;
+}
+
+.cuatro {
+  float: left;
+}
+
+.cinco {
+  float: left;
+}
+
+.articulo {
+  width: 800px;
+  background: #ccc;
+
+
+}
+.articulo img {
+float: left;
+}
+/*
+.articulo img {
+padding: 10px;
+margin: 10px;
+}*/

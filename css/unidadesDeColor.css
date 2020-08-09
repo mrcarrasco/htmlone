@@ -1,0 +1,57 @@
+/*.caja{
+	width: 200px;
+	height: 200px;
+	background:#000;
+/*	Hay 17 palabras clave que podemos utilizar: casi no se utilizan
+	aqua,black,blue,fuchsia, gray, green,lime, maroon, navy,
+	olive,orange, purple,red,silver,teal, white,yellow
+
+}*/
+
+
+
+/*.caja{
+	width: 200px;
+	height: 200px;
+	background:aqua;
+}*/
+
+/* .caja{
+	width: 200px;
+	height: 200px;
+	background:rgb(50,139,240);
+  TIPO RGB
+}*/
+
+.caja{
+	width: 200px;
+	height: 200px;
+	background:rgba(84%,15%,24%, .70);
+
+/*por medio del PORCENTAJES el ultimo número indica la pacidad*/
+}
+
+
+/*.caja{
+	width: 200px;
+	height: 200px;
+	background:#328B34;
+	
+	/*FORMA EN HEXADECIMAL*/
+}*/
+
+
+
+/*
+
+Hay 17 palabras clave que podemos usar:
+aqua,black, blue,fuchsia, gray, green, lime,maroon,vavy,
+olive,orange,purple, 
+*/
+
+
+
+
+
+
+

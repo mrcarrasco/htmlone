@@ -1,0 +1,22 @@
+body{
+	background: url(https://mrcarrasco.000webhostapp.com/practicas/css/img/natu.jpg);
+}
+
+body {
+	font-size: 15px;
+}
+
+p {
+	font-size: 1em;
+}
+
+.contenedor_padre{
+	font-size:25px;
+}
+
+.hijo {
+	width: 10em;
+	height: 10em;
+	background: #000;
+	color: #fff;
+}
