@@ -19,6 +19,8 @@ border: 1px solid white;
 .galeria img {
 vertical-align:top;
 width: 250px;
+height: 170px;
+object-fit: cover;
 margin: 20px;
 padding: 5px;
 opacity:0.5;
